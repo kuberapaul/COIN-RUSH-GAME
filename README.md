@@ -9,4 +9,4 @@ score: depends on longevity of the player on the screen
 pics required: animation of player
     coin image,power image,obstacles image
    
-   https://jasaswini-mohanty.github.io/kubers_game/
+   https://kuberapaul.github.io/COIN-RUSH-GAME/
